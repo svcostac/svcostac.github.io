@@ -3,7 +3,7 @@ main:
   - title: "Academic"
     url: /publications/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
     
   - title: "Resume"
@@ -11,6 +11,4 @@ main:
     
   - title: "Personal"
     url: /personal/
-    
-  - title: "Guide"
-    url: /markdown/
+
