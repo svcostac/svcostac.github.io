@@ -13,7 +13,7 @@ My CV in pdf can be downloaded [here](https://github.com/svcostac/svcostac.githu
 
 Summary
 ------
-I have 10 years of research experience in distributed systems and cloud system management and a deep understanding of the cloud software stack and the life-cycle of cloud-native applications. I am interested in understanding the characteristics of cloud applications, in particular data analytics and deep learning, and solving issues from running them on cloud and HPC systems, e.g., performance, cost-effective resource management, resilience. 
+I have aprox. 10 years of research experience in distributed systems and cloud system management and a deep understanding of the cloud software stack and the life-cycle of cloud-native applications. I am interested in understanding the characteristics of cloud applications, in particular data analytics and deep learning, and solving issues from running them on cloud and HPC systems, e.g., performance, cost-effective resource management, resilience. 
 
 Education
 ------
