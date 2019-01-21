@@ -9,16 +9,31 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-* Resource Management in Cloud Platform as a Service Systems: Analysis and Opportunities. Stefania Costache, Djawida Dib, Nikos Parlavantzas, Christine Morin. Journal of Systems and Software, Elsevier, 2017.
+Talks/Tutorials
+======
 
+* Tutorial intitled "Resource Management in Cloud Platform as a Service Systems". Stefania Costache, Djawida Dib, Nikos Parlavantzas, Christine Morin. Presented at 10th IEEE/ACM International Conference on Utility and Cloud Computing.
+
+International Journals
+======
+
+* Resource Management in Cloud Platform as a Service Systems: Analysis and Opportunities. Stefania Costache, Djawida Dib, Nikos Parlavantzas, Christine Morin. Journal of Systems and Software, Elsevier, 2017.
 
 * MemEFS: A network-aware elastic in-memory runtime distributed file system. Alexandru Uta, Ove Danner, Cas van der Weegen, Ana-Maria Oprescu, Andreea Sandu, Stefania Costache, Thilo Kielmann. Future Generation Computer Systems, Elsevier, 2017
 
 * Market-based autonomous resource and application management in private clouds. Stefania Costache, Samuel Kortas, Christine Morin, Nikos Parlavantzas. Journal of Parallel and Distributed Computing, 2016
 
-* Understanding the data-processing challenges in Intelligent Vehicular Systems. Stefania Costache, Vincenzo Gulisano, Marina Papatriantafilou. Intelligent Vehicles Symposium (IV), 2016 IEEE, pp. 611--618
-
 * E-BaTS: Energy-Aware Scheduling for Bag-of-Task Applications in HPC Clusters. Alexandra Vintila-Filip, Ana-Maria Oprescu, Stefania Costache, Thilo Kielmann. Parallel Processing Letters 25(03), 1541005, World Scientific, 2015
+
+
+International Conferences
+======
+
+* Reducing tail latencies in micro-batch streaming workloads. Faria Kalim, Asser Tantawi, Stefania Costache, Alaa Youssef. Symposium on Cloud Computing, 2016 (Poster).
+
+* Batch spot market for data analytics cloud providers. Stefania Costache, Tommaso Madonia, Asser Tantawi, Malgorzata Steinder. Symposium on Cloud Computing, 2016 (Poster).
+
+* Understanding the data-processing challenges in Intelligent Vehicular Systems. Stefania Costache, Vincenzo Gulisano, Marina Papatriantafilou. Intelligent Vehicles Symposium (IV), 2016 IEEE, pp. 611--618
 
 * MemEFS: an elastic in-memory runtime file system for escience applications. Alexandru Uta, Andreea Sandu, Stefania Costache, Thilo Kielmann . e-Science 2015, pp. 465--474
 
