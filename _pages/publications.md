@@ -51,3 +51,7 @@ International Conferences
 
 * **Multiscaling Algorithms for Molecular Dynamics Simulations with GROMACS.** Nicolae Goga, Siewert Marrink, Stefania Victoria Costache, Florica Moldoveanu, IEEE International Systems Conference, 2009, Vancouver, Canada
 
+Patents
+-------
+
+TBD
