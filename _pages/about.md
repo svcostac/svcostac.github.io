@@ -15,10 +15,10 @@ I have aprox. 10 years of research experience in distributed systems and cloud m
 
 Overall, my profesional activities are in the following areas:
 
-* Large-scale distributed systems
+* **Large-scale distributed systems
 
-* Cloud Computing
+* **Cloud Computing
 
-* Infrastructure for data analytics and machine learning/deep learning
+* **Infrastructure for data analytics and machine learning/deep learning
 
-* Scalability, reliability and performance/cost optimizations
+* **Scalability, reliability and performance/cost optimizations
