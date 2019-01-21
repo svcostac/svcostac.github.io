@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Stefania Costache"
   avatar           : "DSC_0331.JPG"
-  bio              : ""
+  bio              : "Cloud and AI tech. Infrastructure eficiency and scalability. Also wanderlust and stargazer. Continuously exploring."
   location         : ""
   employer         :
   googlescholar    : "https://scholar.google.fr/citations?user=W87EEX0AAAAJ&hl=en"
-  email            :
+  email            : "stefania.costache@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Stefania_Costache"
   uri              :
   bitbucket        :
@@ -98,10 +98,10 @@ author:
   github           : "svcostac"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "scostach"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
