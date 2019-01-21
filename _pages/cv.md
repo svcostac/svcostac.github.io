@@ -12,17 +12,17 @@ redirect_from:
 My CV in pdf can be downloaded [here](https://github.com/svcostac/svcostac.github.io/files/costache_stefania_2019.pdf).
 
 Summary
-======
+------
 I have 10 years of research experience in distributed systems and cloud system management and a deep understanding of the cloud software stack and the life-cycle of cloud-native applications. I am interested in understanding the characteristics of cloud applications, in particular data analytics and deep learning, and solving issues from running them on cloud and HPC systems, e.g., performance, cost-effective resource management, resilience. 
 
 Education
-======
+------
 * B.Eng. in Computer Science, Politehnica University of Bucharest, 2008
 * M.Sc. in Computer Science, Politehnica University of Bucharest, 2010
 * Ph.D in Computer Science, University of Rennes 1, 2013
 
 Skills
-======
+------
 **Programming Languages/Technologies:** C, C++, Java, Golang, Python, Scala. 
 
 Familiar with Ansible, MySQL, shell, Jupyter Notebook
@@ -32,7 +32,7 @@ Familiar with Ansible, MySQL, shell, Jupyter Notebook
 Familiar with IBM Cloud, Google Cloud, AWS, Microsoft Azure, OpenStack, NoSQL datastores, Flink, Hadoop, Caffe, Pytorch, AutoML
 
 Work Experience
-======
+-------
 **January 2016 - November 2018 : IBM T.J.Watson Research Center, US**
 - Research Staff working on resource management for container cloud platforms with focus on batch workloads (data analytics, deep learning)
 
@@ -50,7 +50,7 @@ Work Experience
 
   
 Teaching
-======
+-------
 
 **Vrije University Amsterdam, The Netherlands**
 - Lecturer for the Advanced Topics in Distributed Systems course, (2nd year master), Fall 2014
@@ -65,13 +65,13 @@ Teaching
 
 
 Academic Service
-======
+-------
 * Reviewer for International Journal of Transactions on Parallel and Distributed Systems since 2016
 
 * External reviewer for the following conferences: IPDPS (2011, 2012), ISPDC (2011), Cluster (2011), CCGrid (2012, 2013) and the VTDC workshop (2012).
 
 Awards/Other
-======
+-------
 * Best paper on Cloud Computing from the french academic community at ComPAS 2014
 
 * Erasmus Scholarship at University of Groningen, Netherlands (2008)
