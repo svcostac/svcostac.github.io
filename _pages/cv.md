@@ -70,3 +70,11 @@ Academic Service
 
 * External reviewer for the following conferences: IPDPS (2011, 2012), ISPDC (2011), Cluster (2011), CCGrid (2012, 2013) and the VTDC workshop (2012).
 
+Awards/Other
+======
+* Best paper on Cloud Computing from the french academic community at ComPAS 2014
+
+* Erasmus Scholarship at University of Groningen, Netherlands (2008)
+
+* “Best Summer Project” from IXIA (2007)
+
