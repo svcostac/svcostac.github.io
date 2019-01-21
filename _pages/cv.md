@@ -24,9 +24,11 @@ Education
 Skills
 ======
 **Programming Languages/Technologies:** C, C++, Java, Golang, Python, Scala. 
+
 Familiar with Ansible, MySQL, shell, Jupyter Notebook
 
 **Cloud Platform:** Kubernetes, Mesos, Docker, Spark, Tensorflow. 
+
 Familiar with IBM Cloud, Google Cloud, AWS, Microsoft Azure, OpenStack, NoSQL datastores, Flink, Hadoop, Caffe, Pytorch, AutoML
 
 Work Experience
