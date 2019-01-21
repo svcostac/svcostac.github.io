@@ -10,12 +10,12 @@ author_profile: true
 {% endif %}
 
 Talks/Tutorials
-====
+------
 
 * Tutorial intitled "Resource Management in Cloud Platform as a Service Systems". Stefania Costache, Djawida Dib, Nikos Parlavantzas, Christine Morin. Presented at 10th IEEE/ACM International Conference on Utility and Cloud Computing.
 
 International Journals
-====
+------
 
 * Resource Management in Cloud Platform as a Service Systems: Analysis and Opportunities. Stefania Costache, Djawida Dib, Nikos Parlavantzas, Christine Morin. Journal of Systems and Software, Elsevier, 2017.
 
@@ -27,7 +27,7 @@ International Journals
 
 
 International Conferences
-====
+-------
 
 * Reducing tail latencies in micro-batch streaming workloads. Faria Kalim, Asser Tantawi, Stefania Costache, Alaa Youssef. Symposium on Cloud Computing, 2016 (Poster).
 
