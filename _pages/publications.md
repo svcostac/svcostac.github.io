@@ -12,7 +12,7 @@ author_profile: true
 Talks/Tutorials
 ------
 
-* Tutorial intitled **"Resource Management in Cloud Platform as a Service Systems"**. Stefania Costache, Djawida Dib, Nikos Parlavantzas, Christine Morin. Presented at 10th IEEE/ACM International Conference on Utility and Cloud Computing.
+* Tutorial intitled **"Resource Management in Cloud Platform as a Service Systems"**. Stefania Costache, Djawida Dib, Nikos Parlavantzas, Christine Morin. Presented at 10th IEEE/ACM International Conference on Utility and Cloud Computing. 2017
 
 International Journals
 ------
