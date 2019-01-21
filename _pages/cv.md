@@ -43,7 +43,7 @@ Work Experience
 - Postdoc researcher working on cloud resource management and scalability
 
 **September 2013 - January 2014: INRIA Rennes-Bretagne Atlantique, France**
-- Research engineer working on scalability of application deployment in a multi-cloud environment
+- Research engineer working on performance evalution of application deployment in a multi-cloud environment
 
 **May 2010 - July 2013: INRIA Rennes-Bretagne Atlantique, France**
 - Research engineer working on resource management for HPC clouds
