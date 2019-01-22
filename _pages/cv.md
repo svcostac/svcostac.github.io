@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My CV in pdf can be downloaded [here](https://github.com/svcostac/svcostac.github.io/files/costache_stefania_2019.pdf).
+My CV in pdf can be downloaded [here](https://github.com/svcostac/svcostac.github.io/blob/master/files/costache_stefania_2019.pdf).
 
 Summary
 ------
