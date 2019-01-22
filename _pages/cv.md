@@ -13,7 +13,7 @@ My CV in pdf can be downloaded [here](https://github.com/svcostac/svcostac.githu
 
 Summary
 ------
-I have aprox. 10 years of research experience in distributed systems and cloud system management and a deep understanding of the cloud software stack and the life-cycle of cloud-native applications. I am interested in understanding the characteristics of cloud applications and emerging trends, and solving issues from running them on cloud and HPC systems, e.g., performance, cost-effective resource management, resilience. My work resulted in prototypes of core-components of the cloud management systems, e.g., schedulers and workload controllers, built on open-source technologies. I also used simulation tools for prototyping and testing algorithms. I have experience with HPC, data analysis and deep learning applications, HPC and cloud software management, as well as container cloud systems (Kubernetes).
+I have aprox. 10 years of research experience in distributed systems and cloud system management and a deep understanding of the cloud software stack and the life-cycle of cloud-native applications. I am interested in understanding the characteristics of cloud applications and emerging trends, and solving issues from running them on cloud and HPC systems, e.g., performance, cost-effective resource management, resilience. My work resulted in prototypes of core-components of the cloud management systems, e.g., schedulers and workload controllers, built on open-source technologies. I also used simulation tools for prototyping and testing algorithms. I have experience with HPC, data analysis and deep learning applications, HPC and cloud software management, as well as container cloud systems (Kubernetes, Mesos).
 
 Education
 ------
