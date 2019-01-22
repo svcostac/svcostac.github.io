@@ -13,7 +13,7 @@ My CV in pdf can be downloaded [here](https://github.com/svcostac/svcostac.githu
 
 Summary
 ------
-I have aprox. 10 years of research experience in distributed systems and cloud system management and a deep understanding of the cloud software stack and the life-cycle of cloud-native applications. I am interested in understanding the characteristics of cloud applications and emerging trends, and solving issues from running them on cloud and HPC systems, e.g., performance, cost-effective resource management, resilience. My work resulted in prototypes of core-components of the cloud management systems, e.g., schedulers and workload controllers, built on open-source technologies. I also used simulation tools for prototyping and testing algorithms. I have experience with HPC, data analysis and deep learning applications, HPC and cloud software management, as well as container cloud systems (Kubernetes, Mesos).
+I have aprox. 10 years of research experience in distributed systems and cloud system management and a deep understanding of the cloud software stack and the life-cycle of cloud-native applications. I am interested in understanding the characteristics of cloud applications and their emerging trends, and solving issues from running them on cloud and HPC systems, e.g., performance, cost-effective resource management, resilience. My work resulted in prototypes of core-components of the cloud management systems, e.g., schedulers and workload controllers, built on open-source technologies. I also used simulation tools for prototyping and testing algorithms. I have experience with HPC, data analysis and deep learning applications, HPC and cloud software management, as well as container cloud systems (Kubernetes, Mesos).
 
 Education
 ------
@@ -34,13 +34,13 @@ Familiar with IBM Cloud, Google Cloud, AWS, Microsoft Azure, OpenStack, NoSQL da
 Work Experience
 -------
 **January 2016 - November 2018 : IBM T.J.Watson Research Center, US**
-- Research Staff working on resource management for container cloud platforms with focus on batch workloads (data analytics, deep learning)
+- Research Staff working on resource management for container cloud platforms with a focus on batch computations (data analytics, deep learning)
 
 **September 2015 - December 2015: Chalmers University of Technology, Sweden**
 - Postdoc researcher working on stream processing for IoT
 
 **February 2014 - August 2015: Vrije University Amsterdam, The Netherlands**
-- Postdoc researcher working on cloud resource management and scalability
+- Postdoc researcher working on HPC cloud resource management and scalability of cloud software systems
 
 **September 2013 - January 2014: INRIA Rennes-Bretagne Atlantique, France**
 - Research engineer working on performance evalution of application deployment in a multi-cloud environment
