@@ -11,7 +11,7 @@ redirect_from:
 Short Bio
 --------
 
-I am a cloud technology freelancer with a background in cloud and distributed systems. 
+I am a cloud technology freelancer with a background in cloud and distributed systems, interested in the inter-play between data science and the cloud.
 
 I was a Research Staff at [IBM T.J.Watson Research Center](https://www.research.ibm.com/labs/watson/) (New York), US until November 2018. Before moving to New York and joining IBM in January 2016 I was a postdoc researcher at [Vrije University in Amsterdam](https://www.vu.nl/en) (NL) and [Chalmers Technical University](https://www.chalmers.se/en/Pages/default.aspx) in Gothenburg (Sweden). 
 
@@ -21,7 +21,9 @@ The most fun part of the project was running my designed algorithms on large-sca
 Interests
 --------
 
-My interests are in automatically managing and smartly allocating resources to a wide range of cloud (migrated or native) applications, **from high performance computing** to **data analysis** (real-time streaming and batch computations) and **machine learning/deep learning**, all with a dual objective: *maximizing the ROI of resources and providing a seamless user experience*. My work resulted in prototypes of core-components of the cloud management systems, e.g., schedulers and workload controllers, built on open-source technologies. I also used simulation tools for prototyping and testing algorithms.
+My interests are in automatically managing and smartly allocating resources to a wide range of cloud (migrated or native) applications, **from high performance computing** to **data analysis** and **machine learning/deep learning**, all with a dual objective: *maximizing the ROI of resources and providing a seamless user experience*. More recently I am interested in the inter-play between data science and cloud mechanisms in solving these problems. 
+
+My work resulted in prototypes of core-components of the cloud management systems, e.g., schedulers and workload controllers, built on open-source technologies. I also used simulation tools for prototyping and testing algorithms.
 
 Overall, my profesional activities are in the following areas:
 
