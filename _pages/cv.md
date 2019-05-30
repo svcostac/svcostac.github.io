@@ -13,11 +13,12 @@ My CV in pdf can be downloaded [here](https://github.com/svcostac/svcostac.githu
 
 Summary
 ------
-I have experience in distributed systems and cloud system management and some exposure to data analysis, statistical modeling and machine learning algorithms.
+I am a highly motivated, self-starter with a solid background in distributed systems and exposure to data science tools,  machine learning and data mining concepts. Currently I am seeking to secure a role at a team-oriented, dynamic company. 
 
-So far I mostly focused on understanding the characteristics of cloud applications and their emerging trends, and solving issues from running them on cloud and HPC systems: performance, cost-effective resource management, resilience. My work resulted in prototypes of core-components of the cloud management systems, e.g., schedulers and workload controllers, built on open-source technologies. I also use simulation tools for prototyping and testing scheduling algorithms. 
+I was a Research Staff at [IBM T.J.Watson Research Center](https://www.research.ibm.com/labs/watson/) (New York), US until November 2018. Before moving to New York and joining IBM in January 2016 I was a postdoc researcher at [Vrije University in Amsterdam](https://www.vu.nl/en) (NL) and [Chalmers Technical University](https://www.chalmers.se/en/Pages/default.aspx) in Gothenburg (Sweden). 
 
-When I have free time I usually enjoy hiking, do some mountaineering training and make plans to climb mountains - Island Peak(6,189m) and Aconcagua(6,960.8m) are on my "next trip" list.
+I finished my graduate studies at [Politehnica University of Bucharest]() and during my Master I did an internship at INRIA in the [Myriads group](https://team.inria.fr/myriads/) in the small and yet amazing city of Rennes, France. During the internship I implemented a *high availablity* framework that allowed geo-distributed services to experience low latency overheads and reduced number of replica reconfigurations in a dynamic and large scale system.  
+The most fun part of the project was running my designed algorithms on large-scale academic testbeds and test them with hundreds of service instances. This outcome gave me a taste for distributed systems research. I further pursued a *PhD at University of Rennes 1*, France while being lucky to frequently interact with people involved in system management for nuclear simulations at [Electricite de France](https://www.edf.fr/en/the-edf-group/who-we-are/activities/research-and-development). The outcome of my PhD was a resource management framework for running HPC applications (batch MPI and task farming) on a private cloud. I provided automated life-cycle management and used spot market algorithms for prioritizing and scaling application resources, as well as load-balacing and migration algorithms for resource placement. The solutions I implemented allowed more applications to share the infrastructure at the same time and incentivized scientists to better plan their computations, improving the total system utilization.
 
 Education
 ------
@@ -47,7 +48,7 @@ Work Experience
 - Postdoc researcher working on HPC cloud resource management and scalability of cloud software systems
 
 **September 2013 - January 2014: INRIA Rennes-Bretagne Atlantique, France**
-- Research engineer working on performance evalution of application deployment in a multi-cloud environment
+- Research engineer working on performance evaluation of application deployment in a multi-cloud environment
 
 **May 2010 - July 2013: INRIA Rennes-Bretagne Atlantique, France**
 - Research engineer working on resource management for HPC clouds
