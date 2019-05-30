@@ -9,27 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-My CV in pdf can be downloaded [here](https://github.com/svcostac/svcostac.github.io/blob/master/files/costache_stefania_2019.pdf).
+My CV in pdf can be downloaded [here](https://github.com/svcostac/svcostac.github.io/blob/master/files/stefania-victoria-costache-resume.pdf).
 
 Summary
 ------
-I have aprox. 10 years of research experience in distributed systems and cloud system management and a deep understanding of the cloud software stack and the life-cycle of cloud-native applications. I am interested in understanding the characteristics of cloud applications and their emerging trends, and solving issues from running them on cloud and HPC systems, e.g., performance, cost-effective resource management, resilience. My work resulted in prototypes of core-components of the cloud management systems, e.g., schedulers and workload controllers, built on open-source technologies. I also used simulation tools for prototyping and testing algorithms. I have experience with HPC, data analysis and deep learning applications, HPC and cloud software management, as well as container cloud systems (Kubernetes, Mesos).
+I have experience in distributed systems and cloud system management and some exposure to data analysis, statistical modeling and machine learning algorithms.
+
+So far I mostly focused on understanding the characteristics of cloud applications and their emerging trends, and solving issues from running them on cloud and HPC systems: performance, cost-effective resource management, resilience. My work resulted in prototypes of core-components of the cloud management systems, e.g., schedulers and workload controllers, built on open-source technologies. I also use simulation tools for prototyping and testing scheduling algorithms. 
+
+When I have free time I usually enjoy hiking, do some mountaineering training and make plans to climb mountains - Island Peak(6,189m) and Aconcagua(6,960.8m) are on my "next trip" list.
 
 Education
 ------
-* B.Eng. in Computer Science, Politehnica University of Bucharest, 2008
-* M.Sc. in Computer Science, Politehnica University of Bucharest, 2010
 * Ph.D in Computer Science, University of Rennes 1, 2013
+* M.Sc. in Computer Science, Politehnica University of Bucharest, 2010
+* B.Eng. in Computer Science, Politehnica University of Bucharest, 2008
 
 Skills
 ------
-**Programming Languages/Technologies:** C, C++, Java, Golang, Python, Scala. 
+**Programming Languages/Technologies:** C, C++, Java, Golang, Python. 
 
 Familiar with Ansible, MySQL, shell, Jupyter Notebook
 
 **Cloud Platform:** Kubernetes, Mesos, Docker, Spark, Tensorflow. 
 
-Familiar with IBM Cloud, Google Cloud, AWS, Microsoft Azure, OpenStack, NoSQL datastores, Flink, Hadoop, Caffe, Pytorch, AutoML
+Familiar with: IBM Cloud, Google Cloud, AWS, Microsoft Azure, OpenStack, NoSQL datastores, Flink, Hadoop, AutoML.
 
 Work Experience
 -------
@@ -63,18 +67,4 @@ Teaching
 - Graphic Processing Systems (4th year course), Fall 2008
 - Operating Systems (3rd year course), Fall 2007
 
-
-Academic Service
--------
-* Reviewer for International Journal of Transactions on Parallel and Distributed Systems since 2016
-
-* External reviewer for the following conferences: IPDPS (2011, 2012), ISPDC (2011), Cluster (2011), CCGrid (2012, 2013) and the VTDC workshop (2012).
-
-Awards/Other
--------
-* Best paper on Cloud Computing from the french academic community at ComPAS 2014
-
-* Erasmus Scholarship at University of Groningen, Netherlands (2008)
-
-* “Best Summer Project” from IXIA (2007)
 
