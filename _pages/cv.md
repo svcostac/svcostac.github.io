@@ -13,7 +13,7 @@ My CV in pdf can be downloaded [here](https://github.com/svcostac/svcostac.githu
 
 Summary
 ------
-I am a highly motivated, self-starter with a solid background in distributed systems and exposure to data science tools,  machine learning and data mining concepts. Currently I am seeking to secure a role at a team-oriented, dynamic company. 
+I am a highly motivated, self-starter with a solid background in distributed systems and exposure to data science tools,  machine learning and data mining concepts. Currently I am a software engineer at JPMorgan, working on a distributed platform for financial risk calculations.
 
 I was a Research Staff at [IBM T.J.Watson Research Center](https://www.research.ibm.com/labs/watson/) (New York), US until November 2018. Before moving to New York and joining IBM in January 2016 I was a postdoc researcher at [Vrije University in Amsterdam](https://www.vu.nl/en) (NL) and [Chalmers Technical University](https://www.chalmers.se/en/Pages/default.aspx) in Gothenburg (Sweden). 
 
@@ -26,32 +26,22 @@ Education
 * M.Sc. in Computer Science, Politehnica University of Bucharest, 2010
 * B.Eng. in Computer Science, Politehnica University of Bucharest, 2008
 
-Skills
-------
-**Programming Languages/Technologies:** C, C++, Java, Golang, Python. 
-
-Familiar with Ansible, MySQL, shell, Jupyter Notebook
-
-**Cloud Platform:** Kubernetes, Mesos, Docker, Spark, Tensorflow. 
-
-Familiar with: IBM Cloud, Google Cloud, AWS, Microsoft Azure, OpenStack, NoSQL datastores, Flink, Hadoop, AutoML.
-
 Work Experience
 -------
 **January 2016 - November 2018 : IBM T.J.Watson Research Center, US**
-- Research Staff working on resource management for container cloud platforms with a focus on batch computations (data analytics, deep learning)
+- Research Staff working on resource management for container cloud platforms, mostly focused on data analytics and deep learning applications. Technologies and programming languages: Docker, Mesos, Kubernetes, NoSQL datastores, Spark, Tensorflow, C, Java, Scala, Golang.
 
 **September 2015 - December 2015: Chalmers University of Technology, Sweden**
-- Postdoc researcher working on stream processing for IoT
+- Postdoc researcher working on stream processing for IoT. Technologies and programming languanges: Spark, Flink, Java, Scala.
 
 **February 2014 - August 2015: Vrije University Amsterdam, The Netherlands**
-- Postdoc researcher working on HPC cloud resource management and scalability of cloud software systems
+- Postdoc researcher working on HPC cloud resource management and scalability of cloud software systems. Technologies and programming languages: NoSQL datastores, Java, Python.
 
 **September 2013 - January 2014: INRIA Rennes-Bretagne Atlantique, France**
-- Research engineer working on performance evaluation of application deployment in a multi-cloud environment
+- Research engineer working on performance evaluation of application deployment in a multi-cloud environment. Technologies and programming languages: OpenStack, Java, shell.
 
 **May 2010 - July 2013: INRIA Rennes-Bretagne Atlantique, France**
-- Research engineer working on resource management for HPC clouds
+- Research engineer working on resource management for HPC clouds. Technologies and programming languages: MPI, ZeroMQ, MySQL, Python, shell.
 
   
 Teaching
