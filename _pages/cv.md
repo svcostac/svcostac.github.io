@@ -13,7 +13,7 @@ My CV in pdf can be downloaded [here](https://github.com/svcostac/svcostac.githu
 
 Summary
 ------
-I am a highly motivated, self-starter with a solid background in distributed systems and exposure to data science tools,  machine learning and data mining concepts. Currently I am a software engineer at JPMorgan, working on a distributed platform for financial risk calculations.
+I am a highly motivated, self-starter with a solid background in distributed systems resource management and exposure to data science tools,  machine learning and data mining concepts. Currently I am a software engineer at JPMorgan, working on a distributed platform for financial risk calculations.
 
 I was a Research Staff at [IBM T.J.Watson Research Center](https://www.research.ibm.com/labs/watson/) (New York), US until November 2018. Before moving to New York and joining IBM in January 2016 I was a postdoc researcher at [Vrije University in Amsterdam](https://www.vu.nl/en) (NL) and [Chalmers Technical University](https://www.chalmers.se/en/Pages/default.aspx) in Gothenburg (Sweden). 
 
