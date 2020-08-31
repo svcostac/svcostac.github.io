@@ -29,9 +29,9 @@ International Journals
 International Conferences
 -------
 
-* **Reducing tail latencies in micro-batch streaming workloads.** Faria Kalim, Asser Tantawi, Stefania Costache, Alaa Youssef. Symposium on Cloud Computing, 2016 (Poster).
+* **Reducing tail latencies in micro-batch streaming workloads.** Faria Kalim, Asser Tantawi, Stefania Costache, Alaa Youssef. Symposium on Cloud Computing, 2017 (Poster).
 
-* **Batch spot market for data analytics cloud providers.** Stefania Costache, Tommaso Madonia, Asser Tantawi, Malgorzata Steinder. Symposium on Cloud Computing, 2016 (Poster).
+* **Batch spot market for data analytics cloud providers.** Stefania Costache, Tommaso Madonia, Asser Tantawi, Malgorzata Steinder. Symposium on Cloud Computing, 2017 (Poster).
 
 * **Understanding the data-processing challenges in Intelligent Vehicular Systems.** Stefania Costache, Vincenzo Gulisano, Marina Papatriantafilou. Intelligent Vehicles Symposium (IV), 2016 IEEE, pp. 611--618
 
@@ -54,4 +54,5 @@ International Conferences
 Patents
 -------
 
-TBD
+* **Reward-based admission controller for resource requests in the cloud.** Chen Wang, Ali Kanso, Stefania V Costache, Alaa S Youssef, Malgorzata Steinder, US Patent App. 16/204,108, 2020
+* **Runtime estimation for machine learning tasks.** Parijat Dube, Gauri Joshi, Priya Ashok Nagpurkar, Stefania Victoria Costache, Diana Jeanne Arroyo, Zehra Noman Sura, US Patent App. 15/901,430, 2019
