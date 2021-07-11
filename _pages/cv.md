@@ -14,7 +14,7 @@ My CV in pdf can be downloaded [here](https://github.com/svcostac/svcostac.githu
 Summary
 ------
 
-I am a software engineer, tech lead, at JPMorgan, working on large-scale cloud-native compute distribution of financial risk modelling algorithms. 
+I am a software engineer, tech lead, at J.P. Morgan, working on large-scale cloud-native compute distribution of financial risk modelling algorithms. 
 
 I was a Research Staff at [IBM T.J.Watson Research Center](https://www.research.ibm.com/labs/watson/) (New York), US until November 2018. Before moving to New York and joining IBM in January 2016 I was a postdoc researcher at [Vrije University in Amsterdam](https://www.vu.nl/en) (NL) and [Chalmers Technical University](https://www.chalmers.se/en/Pages/default.aspx) in Gothenburg (Sweden). 
 
@@ -24,7 +24,7 @@ The most fun part of the project was running my designed algorithms on large-sca
 Work Experience
 -------
 **September 2019 - current : J.P. Morgan, London, UK**
-- Vice President, Core Technology, working on large-scale cloud-native compute distribution of financial risk modelling algorithms. Technologies and programming languages: container orchestration (Docker, Kubernetes), performace observability and distributed tracing (Prometheus, Jaeger, DataDog, ELK), cloud (AWS), data analytics (Kafka, InfluxDB), Python. 
+- Vice President, Core Technology, working on large-scale cloud-native compute distribution of financial risk modelling algorithms. Technologies and programming languages: container orchestration (Docker, Kubernetes), performance observability and distributed tracing (Prometheus, Jaeger, DataDog, ELK), data analytics (Kafka, InfluxDB), cloud (AWS), Python. 
 
 **January 2016 - November 2018 : IBM T.J.Watson Research Center, US**
 - Research Staff working on resource management for container cloud platforms, mostly focused on data analytics and deep learning applications. Technologies and programming languages: Docker, Mesos, Kubernetes, NoSQL datastores, Spark, C, Java, Scala, Golang.
