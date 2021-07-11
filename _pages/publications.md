@@ -53,6 +53,6 @@ International Conferences
 
 Patents
 -------
-
+* **Performance biased scheduler extender.** Chen Wang, Stefania V Costache, Alaa S Youssef, Ali Kanso, Tonghoon Suk, Asser Narsreldin Tantawi, US Patent App. 16/592,078, 2021
 * **Reward-based admission controller for resource requests in the cloud.** Chen Wang, Ali Kanso, Stefania V Costache, Alaa S Youssef, Malgorzata Steinder, US Patent App. 16/204,108, 2020
 * **Runtime estimation for machine learning tasks.** Parijat Dube, Gauri Joshi, Priya Ashok Nagpurkar, Stefania Victoria Costache, Diana Jeanne Arroyo, Zehra Noman Sura, US Patent App. 15/901,430, 2019
