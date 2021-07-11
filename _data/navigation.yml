@@ -2,10 +2,7 @@
 main:
   - title: "Research"
     url: /publications/
-        
-  - title: "Blog"
-    url: /year-archive/
-    
+            
   - title: "Resume"
     url: /cv/
     
